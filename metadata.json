@@ -1,0 +1,5 @@
+{
+  "name": "Partnership Voices: Sentiment Analytics",
+  "description": "An AI-powered application for aspect-based and explainable sentiment analysis of texts related to global collaboration and partnerships, using a hybrid approach with Gemini.",
+  "requestFramePermissions": []
+}
